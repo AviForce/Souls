@@ -1,0 +1,29 @@
+mysql:
+  host: localhost
+  user: root
+  database: avisouls
+  password: root1
+SPEED:
+  price: 250
+  upgrade_price: 50
+FORCE:
+  price: 250
+  upgrade_price: 50
+FIRE_RESISTANCE:
+  price: 250
+  upgrade_price: 50
+JUMP:
+  price: 250
+  upgrade_price: 50
+FAST_DIGGING:
+  price: 250
+  upgrade_price: 50
+RESISTANCE:
+  price: 250
+  upgrade_price: 50
+REGENERATION:
+  price: 250
+  upgrade_price: 50
+NIGHT_VISION:
+  price: 250
+  upgrade_price: 50
