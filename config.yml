@@ -1,11 +1,11 @@
 mysql:
   host: localhost
   user: root
-  database: avisouls
+  database: souls
   password: root1
-SPEED:
-  price: 250
-  upgrade_price: 50
+SPEED: # name souls
+  price: 250 # price to buy
+  upgrade_price: 50 # only
 FORCE:
   price: 250
   upgrade_price: 50
